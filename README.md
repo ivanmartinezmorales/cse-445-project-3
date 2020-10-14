@@ -1,2 +1,3 @@
-# cse-445-project-3
-Project 3 for CSE 445, Fall 2020
+# CSE 445 Project 3
+
+This repository contains the A5 and A6 assignment for CSE 445.
